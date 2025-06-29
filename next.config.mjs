@@ -197,7 +197,6 @@ export default {
     privateMode,
   },
   basePath,
-  output: 'standalone',
   eslint: {
     ignoreDuringBuilds: true,
   },
